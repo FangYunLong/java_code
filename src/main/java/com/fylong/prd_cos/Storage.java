@@ -1,8 +1,8 @@
 package com.fylong.prd_cos;
 
-import sun.applet.Main;
 
 /**
+ * 生产者--消费者
  * Created by Fang on 2019/4/13.
  */
 public class Storage {
