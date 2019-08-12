@@ -16,6 +16,7 @@ public class ByteToStringTest {
         String[] charsets = new String[]{"utf-8","gbk","gb18030","windows-1252"};
         System.out.println("传入乱码:"+str);
 
+
         for (int i = 0;i < charsets.length;i++){
             for (int j = 0;j < charsets.length;j++){
                 if (i!=j){
@@ -32,9 +33,15 @@ public class ByteToStringTest {
         //gbk-->utf-8
         String s1= "编码格式变换";
         String gbk = new String(s1.getBytes("utf-8"), "gbk");
-        System.out.println(gbk);//浣犲ソ鍟婄殑
         String utf8 = new String(gbk.getBytes("gbk"), "utf-8");
-        System.out.println(utf8);
+        System.out.println("gbk:" + gbk);
+        System.out.println("utf-8:" + utf8);
+
+        String hello = "写进去,读出去";
+        System.out.println("encode-utf-8:"+ new String(hello.getBytes("utf-8")));
+        System.out.println("encode-gbk:"+ new String(hello.getBytes("gbk")));
+        System.out.println("code-gbk:"+new String(hello.getBytes("utf-8"),"gbk"));
+        System.out.println("code-utf-8:"+new String(hello.getBytes("utf-8"),"utf-8"));
 
         //1）老马，本来的编码格式是GB18030，编码(十六进制)是 C0CF C2ED。
         //2）这个二进制形式被错误当成了Windows-1252编码，解读成了字符“ÀÏÂí”。

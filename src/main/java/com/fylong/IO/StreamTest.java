@@ -3,65 +3,40 @@ package com.fylong.IO;
 import java.io.*;
 
 /**
- * 文件读写
+ * 文件读写+
  * Created by Fang on 2019/4/13.
  */
 public class StreamTest {
 
-    public void wirteByteToFile(){
 
-        String hello = "文件读写";
-        try {
-            hello = new String(hello.getBytes("utf-8"),"gbk");
-            System.out.println("gbk:"+hello);
-//            hello = new String(hello.getBytes("gbk"),"utf-8");
-//            System.out.println("utf-8:"+hello);
-
-        } catch (UnsupportedEncodingException e) {
-            e.printStackTrace();
-        }
-        byte[] byteArray = hello.getBytes();
-        File file = new File("F:/test.txt");
-        OutputStream os =null;
-        try {
-            os = new FileOutputStream(file);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
-        try {
-            os.write(byteArray);
-            os.close();
-        } catch (IOException e) {
-            e.printStackTrace();
-        }
-
-
-
+    public void writeByteToFile() throws IOException{
+        String write = "write";
+        byte[] byteArray = write.getBytes();
+        File file = new File("F:\\Java\\temp.txt");
+        //因为是用字节流来写媒介，所以对应的是OutputStream
+        //又因为媒介对象是文件，所以用到子类是FileOutputStream
+        OutputStream os = new FileOutputStream(file);
+        os.write(byteArray);//写进去  byteArray -->os-->file
+        os.close();
     }
 
-    public void readByteFromFile(){
-        File file = new File("F:/test.txt");
+    public void readByteFromFile() throws IOException{
+        File file = new File("F:\\Java\\temp.txt");
         byte[] byteArray = new byte[(int)file.length()];
-        InputStream is = null;
+        //同上
+        InputStream is = new FileInputStream(file);
+        int size = is.read(byteArray);//读出去 file-->is-->byteArray
+        System.out.println("size:"+size+"  content:"+new String(byteArray));
+        is.close();
+    }
+
+    public static void main(String[] args) {
+        StreamTest test = new StreamTest();
         try {
-            is = new FileInputStream(file);
-        } catch (FileNotFoundException e) {
-            e.printStackTrace();
-        }
-        try {
-            int size = is.read(byteArray);
-            String gbk = new String(byteArray,"utf-8");
-            System.out.println("gbk:"+gbk);
-            System.out.println("file size:"+size+"\ncontent:"+new String(gbk.getBytes("gbk"),"utf-8"));
-            is.close();
+            test.writeByteToFile();
+            test.readByteFromFile();
         } catch (IOException e) {
             e.printStackTrace();
         }
-    }
-
-    public static void main(String[] args) throws UnsupportedEncodingException {
-        StreamTest test = new StreamTest();
-        test.wirteByteToFile();
-        test.readByteFromFile();
     }
 }
