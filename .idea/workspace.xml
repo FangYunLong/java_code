@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec4be9e0-1ba8-44a0-9981-034430dfb11d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_74.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_lettuce_lettuce_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_34_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_2_8_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_activation_javax_activation_api_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_xml_bind_jaxb_api_2_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fylong/Redis/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fylong/Utils/AESUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fylong/Utils/RSAUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fylong/Web/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/1.基本内容/1-获得jQuery对象.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/1.基本内容/2-DOM和jQuery对象的转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/01-基本选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/02-层次选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/03-基本过滤选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/04-内容过滤选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/05-可见性过滤选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/06-属性选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/07-子元素过滤选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/08-表单选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/09-表单对象属性过滤选择器.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/2.选择器/script/assist.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/3.选择器案例/1.动态列表效果.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/4.属性和样式/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/5.文档处理/01-内部插入节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/5.文档处理/02-外部插入节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/5.文档处理/03-删除节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/5.文档处理/04-复制节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/5.文档处理/05-替换节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/5.文档处理/06-包裹节点.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/6.文档处理案例/1.左右select选择.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/WebRoot/jquery/js/jquery-1.7.2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/decorator/Beverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/decorator/Coffee.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/decorator/Decorator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/decorator/DecoratorTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/decorator/Milk.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/decorator/Mocha.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/factory/Community.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/factory/CommunityFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/factory/FactoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/factory/IFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/factory/LeiFeng.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/factory/Undergraduate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/factory/UndergraduateFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/prototype/PrototypeTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/prototype/Resume.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/prototype/WorkExperience.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/proxy/Girl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/proxy/ProxyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/proxy/Pursuit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/proxy/PursuitProxy.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/proxy/RealPursuit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/simple_factory/AddOperate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/simple_factory/DivOperate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/simple_factory/FactoryTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/simple_factory/Operation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/simple_factory/SimpleFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/strategy/CashRece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/strategy/NormalRece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/strategy/RebateRece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/strategy/ReceContext.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/strategy/ReturnRece.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/DP/strategy/StrategyTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/IO/StreamTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/JavaApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/Prd_Cos/Consumer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/Prd_Cos/Producer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/Prd_Cos/Storage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/Redis/RedisConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/String/ByteToStringTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/Utils/AESUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/Utils/RSAUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/Web/entity/User$UserBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/fylong/Web/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/java-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.fylong.JavaApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/com.fylong.JavaApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/fylong/JavaApplicationTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/decorator/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/decorator/Beverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/decorator/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/decorator/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/decorator/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/decorator/Decorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/decorator/DecoratorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/decorator/DecoratorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/decorator/Milk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/decorator/Milk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/decorator/Mocha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/decorator/Mocha.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/factory/Community.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/factory/Community.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/factory/CommunityFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/factory/CommunityFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/factory/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/factory/FactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/factory/IFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/factory/IFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/factory/LeiFeng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/factory/LeiFeng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/factory/Undergraduate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/factory/Undergraduate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/factory/UndergraduateFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/factory/UndergraduateFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/prototype/PrototypeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/prototype/PrototypeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/prototype/Resume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/prototype/Resume.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/prototype/WorkExperience.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/prototype/WorkExperience.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/proxy/Girl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/proxy/Girl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/proxy/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/proxy/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/proxy/Pursuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/proxy/Pursuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/proxy/PursuitProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/proxy/PursuitProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/proxy/RealPursuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/proxy/RealPursuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/simple_factory/AddOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/simple_factory/AddOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/simple_factory/DivOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/simple_factory/DivOperate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/simple_factory/FactoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/simple_factory/FactoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/simple_factory/Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/simple_factory/Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/simple_factory/SimpleFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/simple_factory/SimpleFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/strategy/CashRece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/strategy/CashRece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/strategy/NormalRece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/strategy/NormalRece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/strategy/RebateRece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/strategy/RebateRece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/strategy/ReceContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/strategy/ReceContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/strategy/ReturnRece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/strategy/ReturnRece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/dp/strategy/StrategyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/DP/strategy/StrategyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/prd_cos/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/Prd_Cos/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/prd_cos/Producer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/Prd_Cos/Producer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fylong/prd_cos/Storage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fylong/Prd_Cos/Storage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/fylong/JavaApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/fylong/JavaApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/.m2/wrapper/dists/apache-maven-3.6.0-bin/2dakv70gp803gtm5ve1ufmvttn/apache-maven-3.6.0" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i3WKYFpHc1O1Lqq322s4i1HlTp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AESUtils">
+    <configuration name="AESUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fylong.Utils.AESUtils" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fylong.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RSAUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fylong.Utils.RSAUtils" />
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fylong.Utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fylong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fylong" />
+      <option name="MAIN_CLASS_NAME" value="com.fylong.JavaApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fylong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fylong" />
+      <option name="MAIN_CLASS_NAME" value="com.fylong.JavaApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fylong.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.fylong" />
+      <option name="MAIN_CLASS_NAME" value="com.fylong.JavaApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="java" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.fylong.JavaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AESUtils" />
+        <item itemvalue="Application.RSAUtils" />
+        <item itemvalue="JUnit.JavaApplicationTests" />
+        <item itemvalue="JUnit.JavaApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.JavaApplicationTests.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec4be9e0-1ba8-44a0-9981-034430dfb11d" name="Default Changelist" comment="" />
+      <created>1601136814127</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601136814127</updated>
+      <workItem from="1601136815635" duration="1284000" />
+      <workItem from="1602512820926" duration="1161000" />
+      <workItem from="1602594942528" duration="411000" />
+      <workItem from="1602602676429" duration="48000" />
+      <workItem from="1602602737842" duration="601000" />
+      <workItem from="1603511853729" duration="277000" />
+      <workItem from="1603620910396" duration="576000" />
+      <workItem from="1603623427364" duration="46000" />
+      <workItem from="1603623481609" duration="1000" />
+      <workItem from="1603724985783" duration="1084000" />
+      <workItem from="1603976309091" duration="85000" />
+      <workItem from="1603976481639" duration="6000" />
+      <workItem from="1603976516836" duration="56000" />
+      <workItem from="1603976593510" duration="10000" />
+      <workItem from="1603976619193" duration="9000" />
+      <workItem from="1603976759427" duration="142000" />
+      <workItem from="1603977398096" duration="83000" />
+      <workItem from="1603977497883" duration="112000" />
+      <workItem from="1603986758051" duration="247000" />
+      <workItem from="1603987042642" duration="178000" />
+      <workItem from="1604115950376" duration="6314000" />
+      <workItem from="1604150711822" duration="6682000" />
+      <workItem from="1604164179264" duration="269000" />
+      <workItem from="1604165259486" duration="1673000" />
+      <workItem from="1604235533582" duration="4114000" />
+      <workItem from="1604589406871" duration="2193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="597" y="291" key="#Notifications" timestamp="1604150719855">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="597" y="291" key="#Notifications/0.23.1440.797@0.23.1440.797" timestamp="1604150719855" />
+    <state x="214" y="25" key="CommitChangelistDialog2" timestamp="1604591587536">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="214" y="25" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1604591587536" />
+    <state width="1398" height="636" key="GridCell.Tab.0.bottom" timestamp="1604591477280">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1323" height="356" key="GridCell.Tab.0.bottom/-225.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1604331706654" />
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom/-79.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603520042907" />
+    <state width="1398" height="636" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1604591477280" />
+    <state width="1057" height="418" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1604590373407" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601138276345" />
+    <state width="1398" height="636" key="GridCell.Tab.0.center" timestamp="1604591477278">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1323" height="356" key="GridCell.Tab.0.center/-225.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1604331706652" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center/-79.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603520042905" />
+    <state width="1398" height="636" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1604591477278" />
+    <state width="1057" height="418" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1604590373407" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601138276344" />
+    <state width="1398" height="636" key="GridCell.Tab.0.left" timestamp="1604591477278">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1323" height="356" key="GridCell.Tab.0.left/-225.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1604331706651" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left/-79.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603520042905" />
+    <state width="1398" height="636" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1604591477278" />
+    <state width="1057" height="418" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1604590373406" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601138276343" />
+    <state width="1398" height="636" key="GridCell.Tab.0.right" timestamp="1604591477279">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1323" height="356" key="GridCell.Tab.0.right/-225.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1604331706653" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right/-79.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603520042906" />
+    <state width="1398" height="636" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1604591477279" />
+    <state width="1057" height="418" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1604590373407" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601138276345" />
+    <state width="1398" height="540" key="GridCell.Tab.1.bottom" timestamp="1604165240873">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.1.bottom/-79.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603520042910" />
+    <state width="1398" height="540" key="GridCell.Tab.1.bottom/0.23.1440.797@0.23.1440.797" timestamp="1604165240873" />
+    <state width="1398" height="540" key="GridCell.Tab.1.center" timestamp="1604165240873">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.1.center/-79.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603520042908" />
+    <state width="1398" height="540" key="GridCell.Tab.1.center/0.23.1440.797@0.23.1440.797" timestamp="1604165240873" />
+    <state width="1398" height="540" key="GridCell.Tab.1.left" timestamp="1604165240872">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.1.left/-79.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603520042907" />
+    <state width="1398" height="540" key="GridCell.Tab.1.left/0.23.1440.797@0.23.1440.797" timestamp="1604165240872" />
+    <state width="1398" height="540" key="GridCell.Tab.1.right" timestamp="1604165240873">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="191" key="GridCell.Tab.1.right/-79.-1057.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1603520042909" />
+    <state width="1398" height="540" key="GridCell.Tab.1.right/0.23.1440.797@0.23.1440.797" timestamp="1604165240873" />
+    <state width="1398" height="254" key="GridCell.Tab.2.bottom" timestamp="1604163214854">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.2.bottom/0.23.1440.797@0.23.1440.797" timestamp="1604163214854" />
+    <state width="1398" height="254" key="GridCell.Tab.2.center" timestamp="1604163214854">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.2.center/0.23.1440.797@0.23.1440.797" timestamp="1604163214854" />
+    <state width="1398" height="254" key="GridCell.Tab.2.left" timestamp="1604163214854">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.2.left/0.23.1440.797@0.23.1440.797" timestamp="1604163214854" />
+    <state width="1398" height="254" key="GridCell.Tab.2.right" timestamp="1604163214854">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state width="1398" height="254" key="GridCell.Tab.2.right/0.23.1440.797@0.23.1440.797" timestamp="1604163214854" />
+    <state x="221" y="23" key="SettingsEditor" timestamp="1604590076494">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="221" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1604590076494" />
+    <state x="221" y="64" key="SettingsEditor/1440.-82.1920.977/0.23.1440.877@0.23.1440.877" timestamp="1602602723455" />
+    <state x="221" y="64" key="SettingsEditor/1440.-89.1920.977/0.23.1440.877@0.23.1440.877" timestamp="1603987104424" />
+    <state x="221" y="60" key="SettingsEditor/1440.23.1920.1057/0.23.1440.797@0.23.1440.797" timestamp="1601138238591" />
+    <state x="347" y="96" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604165493896">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="347" y="96" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.797@0.23.1440.797" timestamp="1604165493896" />
+    <state x="88" y="84" key="new project wizard" timestamp="1604161503389">
+      <screen x="0" y="23" width="1440" height="797" />
+    </state>
+    <state x="88" y="84" key="new project wizard/0.23.1440.797@0.23.1440.797" timestamp="1604161503389" />
+  </component>
+</project>
