@@ -1,10 +1,12 @@
 package com.fylong;
 
-import com.fylong.Web.entity.User;
+import com.fylong.web.entity.User;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.test.context.junit4.SpringRunner;
 
@@ -26,6 +28,15 @@ public class JavaApplicationTests {
 		redisTemplate.opsForValue().set("user", user);
 
 		log.info("user="+redisTemplate.opsForValue().get("user"));
+
+	}
+
+	@Test
+	public void getUser(){
+
+		ApplicationContext context = new ClassPathXmlApplicationContext("user.xml");
+		User user = context.getBean("user", User.class);
+
 	}
 
 }
